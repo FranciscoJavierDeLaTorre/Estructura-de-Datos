@@ -1,0 +1,33 @@
+[{
+  "file": "C:\\Estructura de Datos\\Ejemplo07\\main.cpp",
+  "directory": "C:\\Estructura de Datos\\Ejemplo07",
+  "command": "C:/mingw64/mingw32/bin/g++.exe -c \"C:\\Estructura de Datos\\Ejemplo07\\main.cpp\" -o \"C:\\Estructura de Datos\\Ejemplo07\\main.cpp\".o -target i686-w64-mingw32 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0\\i686-w64-mingw32 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0\\backward -IC:\\mingw64\\mingw32\\lib\\gcc\\i686-w64-mingw32\\15.2.0\\include -IC:\\mingw64\\mingw32\\include -IC:\\mingw64\\mingw32\\lib\\gcc\\i686-w64-mingw32\\15.2.0\\include-fixed -IC:\\mingw64\\mingw32\\i686-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Estructura de Datos\\Ejemplo06\\main.cpp",
+  "directory": "C:\\Estructura de Datos\\Ejemplo06",
+  "command": "C:/mingw64/mingw32/bin/g++.exe -c \"C:\\Estructura de Datos\\Ejemplo06\\main.cpp\" -o \"C:\\Estructura de Datos\\Ejemplo06\\main.cpp\".o -target i686-w64-mingw32 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0\\i686-w64-mingw32 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0\\backward -IC:\\mingw64\\mingw32\\lib\\gcc\\i686-w64-mingw32\\15.2.0\\include -IC:\\mingw64\\mingw32\\include -IC:\\mingw64\\mingw32\\lib\\gcc\\i686-w64-mingw32\\15.2.0\\include-fixed -IC:\\mingw64\\mingw32\\i686-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Estructura de Datos\\Ejemplo05\\main.cpp",
+  "directory": "C:\\Estructura de Datos\\Ejemplo05",
+  "command": "C:/mingw64/mingw32/bin/g++.exe -c \"C:\\Estructura de Datos\\Ejemplo05\\main.cpp\" -o \"C:\\Estructura de Datos\\Ejemplo05\\main.cpp\".o -target i686-w64-mingw32 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0\\i686-w64-mingw32 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0\\backward -IC:\\mingw64\\mingw32\\lib\\gcc\\i686-w64-mingw32\\15.2.0\\include -IC:\\mingw64\\mingw32\\include -IC:\\mingw64\\mingw32\\lib\\gcc\\i686-w64-mingw32\\15.2.0\\include-fixed -IC:\\mingw64\\mingw32\\i686-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Estructura de Datos\\Ejemplo04\\main.cpp",
+  "directory": "C:\\Estructura de Datos\\Ejemplo04",
+  "command": "C:/mingw64/mingw32/bin/g++.exe -c \"C:\\Estructura de Datos\\Ejemplo04\\main.cpp\" -o \"C:\\Estructura de Datos\\Ejemplo04\\main.cpp\".o -target i686-w64-mingw32 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0\\i686-w64-mingw32 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0\\backward -IC:\\mingw64\\mingw32\\lib\\gcc\\i686-w64-mingw32\\15.2.0\\include -IC:\\mingw64\\mingw32\\include -IC:\\mingw64\\mingw32\\lib\\gcc\\i686-w64-mingw32\\15.2.0\\include-fixed -IC:\\mingw64\\mingw32\\i686-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Estructura de Datos\\Ejemplo08\\main.cpp",
+  "directory": "C:\\Estructura de Datos\\Ejemplo08",
+  "command": "C:/mingw64/mingw32/bin/g++.exe -c \"C:\\Estructura de Datos\\Ejemplo08\\main.cpp\" -o \"C:\\Estructura de Datos\\Ejemplo08\\main.cpp\".o -target i686-w64-mingw32 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0\\i686-w64-mingw32 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0\\backward -IC:\\mingw64\\mingw32\\lib\\gcc\\i686-w64-mingw32\\15.2.0\\include -IC:\\mingw64\\mingw32\\include -IC:\\mingw64\\mingw32\\lib\\gcc\\i686-w64-mingw32\\15.2.0\\include-fixed -IC:\\mingw64\\mingw32\\i686-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Estructura de Datos\\Ejemplo03\\main.cpp",
+  "directory": "C:\\Estructura de Datos\\Ejemplo03",
+  "command": "C:/mingw64/mingw32/bin/g++.exe -c \"C:\\Estructura de Datos\\Ejemplo03\\main.cpp\" -o \"C:\\Estructura de Datos\\Ejemplo03\\main.cpp\".o -target i686-w64-mingw32 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0\\i686-w64-mingw32 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0\\backward -IC:\\mingw64\\mingw32\\lib\\gcc\\i686-w64-mingw32\\15.2.0\\include -IC:\\mingw64\\mingw32\\include -IC:\\mingw64\\mingw32\\lib\\gcc\\i686-w64-mingw32\\15.2.0\\include-fixed -IC:\\mingw64\\mingw32\\i686-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Estructura de Datos\\Ejemplo02\\main.cpp",
+  "directory": "C:\\Estructura de Datos\\Ejemplo02",
+  "command": "C:/mingw64/mingw32/bin/g++.exe -c \"C:\\Estructura de Datos\\Ejemplo02\\main.cpp\" -o \"C:\\Estructura de Datos\\Ejemplo02\\main.cpp\".o -target i686-w64-mingw32 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0\\i686-w64-mingw32 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0\\backward -IC:\\mingw64\\mingw32\\lib\\gcc\\i686-w64-mingw32\\15.2.0\\include -IC:\\mingw64\\mingw32\\include -IC:\\mingw64\\mingw32\\lib\\gcc\\i686-w64-mingw32\\15.2.0\\include-fixed -IC:\\mingw64\\mingw32\\i686-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Estructura de Datos\\Ejemplo01\\main.cpp",
+  "directory": "C:\\Estructura de Datos\\Ejemplo01",
+  "command": "C:/mingw64/mingw32/bin/g++.exe -c \"C:\\Estructura de Datos\\Ejemplo01\\main.cpp\" -o \"C:\\Estructura de Datos\\Ejemplo01\\main.cpp\".o -target i686-w64-mingw32 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0\\i686-w64-mingw32 -IC:\\mingw64\\mingw32\\include\\c++\\15.2.0\\backward -IC:\\mingw64\\mingw32\\lib\\gcc\\i686-w64-mingw32\\15.2.0\\include -IC:\\mingw64\\mingw32\\include -IC:\\mingw64\\mingw32\\lib\\gcc\\i686-w64-mingw32\\15.2.0\\include-fixed -IC:\\mingw64\\mingw32\\i686-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
